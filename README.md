@@ -6,9 +6,9 @@ Simple downloader for cyberdrop.me and bunkr.ru
 
 Before using install requirements with ```pip3 install -r requirements.txt```
 
-Basic usage: ```python3 dump.py -u [url]```
+Basic usage: ```python3 main.py -u [url]```
 
-File usage: ```python3 dump.py -f list.txt```
+File usage: ```python3 main.py -f list.txt```
 
 # Full usage
 
